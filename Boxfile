@@ -1,0 +1,2 @@
+web1:
+  shared_writable_dirs: [/admin, /catalog, /download, /image, /install, /system, /config.php, /index.php, /php.ini]
